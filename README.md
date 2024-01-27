@@ -2,4 +2,4 @@
 
 ## My github.io page
 
-This website hosts the documentation for my projects
+This website hosts the documentation for my github projects
